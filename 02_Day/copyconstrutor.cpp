@@ -23,6 +23,8 @@ public:
 int main(){
     Student s1("Shivam", 8.5);
     s1.getInfo();
+    Student s2(s1);
+    s2.getInfo();
 
     return 0;
 }
