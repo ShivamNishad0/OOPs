@@ -34,7 +34,7 @@ int main(){
     t1.name="Shivam";
     t1.dept="MCA";
     t1.subject="DSA";
-    t1.setSalary(50000);
+    t1.setSalary(g50000);
     cout << "Name: " << t1.name << endl;
     cout << "Department: " << t1.dept << endl;
     cout << "Subject: " << t1.subject << endl;
